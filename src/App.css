@@ -1,0 +1,20 @@
+.btn-nav{
+  color: rgb(15, 173, 7);
+}
+
+.font{
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(1, 4, 9);
+}
+
+
+.underline{
+  background-color:  rgb(15, 173, 7);
+  width: 100px;
+  height: 2px;
+  border-radius: 10px;
+}
+.img-card{
+  width: 200px !important;
+}
